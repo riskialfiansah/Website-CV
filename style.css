@@ -1,0 +1,45 @@
+/* Custom Styles */
+
+body, html {
+  font-family: "Arial", sans-serif;
+  line-height: 1.8;
+}
+
+.w3-bar .w3-button {
+  padding: 16px;
+}
+
+.w3-top {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.w3-jumbo {
+  margin-top: 50px;
+}
+h1 {
+    color: blue
+}
+.w3-content {
+  margin-top: 50px;
+}
+
+.w3-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.w3-card {
+  margin-top: 16px;
+  padding: 16px;
+}
+
+.w3-margin-top {
+  margin-top: 32px;
+}
+
+.w3-padding-large {
+  padding: 32px;
+}
